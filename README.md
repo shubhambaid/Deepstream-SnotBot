@@ -1,6 +1,6 @@
 # SnotBot-Deepstream
 
-Whales are majestic, so do their snot. There is a lot of information about whale's health and ocean in the snot droplets. The microbial data consists of plethora of information (e.g. Algal Bloom, Whale's Health, Plankton Reserviour e.t.c)
+Whales are majestic, so do their snot. There is a lot of microbials in the snot droplets. The microbial data consists of plethora of information (e.g. Algal Bloom, Whale's Health, Plankton Reserviour e.t.c)
 
 ![](sources/whale-gif.gif)
 
