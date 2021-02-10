@@ -72,7 +72,7 @@ pynput==1.7.2
 python-xlib==0.29
 redis==3.5.3
 six==1.15.0
-
+```
 ```sh
 apt install redis-server
 ```
