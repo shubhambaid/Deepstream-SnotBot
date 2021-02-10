@@ -1,6 +1,6 @@
 # SnotBot-Deepstream
 
-Whales are majestic, so do their snot. There is a lot of information about whale's health and ocean in the snot droplets.
+Whales are majestic, so do their snot. There is a lot of information about whale's health and ocean in the snot droplets. The microbial data consists of plethora of information (e.g. Algal Bloom, Whale's Health, Plankton Reserviour e.t.c)
 
 ![](sources/whale-gif.gif)
 
@@ -16,7 +16,7 @@ Xavier NX helps in video analytics (to read the stream and detect the whales and
 
 ## Deepstream Setup
 
-This post assumes you have a fully functional Jetson device. If not, you can refer the documentation [here](https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html).
+Make sure that your Jetson device is fully setup, If not check [here](https://docs.nvidia.com/jetson/jetpack/install-jetpack/index.html).
 
 ### 1. Install System Dependencies
 
