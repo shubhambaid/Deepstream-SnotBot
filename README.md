@@ -1,9 +1,13 @@
 # SnotBot-Deepstream
+### How about a time when a drone in your control can perform much ahead then a submarine out of your control can do ?
+### Amazed ?? So was I ! 
+Let's start with small example of plankton data, Planktons generate about half the atmosphere's oxygen, as much per year as all land plants. Phytoplankton also form the base of virtually every ocean food web and getting information about them is really tough, but SnotBot does it in a really different way.
 
-Whales are majestic, so do their snot. There is a lot of microbials in the snot droplets. The microbial data consists of plethora of information (e.g. Algal Bloom, Whale's Health, Plankton Reserviour e.t.c)
 
 ![](sources/whale-gif.gif)
 
+
+Whales are majestic, so do their snot. There is a lot of microbials in the snot droplets. The microbial data consists of plethora of information (e.g. Algal Bloom, Whale's Health, Plankton Reserviour e.t.c). 
 To make the collection of snot easier, SnotBot stealthily flies over the whale and collects the snot.
 
 ## The SnotBot consists of two modules
@@ -99,4 +103,4 @@ python3 snotbot.py <path of the video source>
 * [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
 * [aj-ames/Hermes-Deepstream](https://github.com/aj-ames/Hermes-Deepstream)
 * [damiafuentes/DJITelloPy](https://github.com/damiafuentes/DJITelloPy)
-
+* A Crocodile and A Whale
