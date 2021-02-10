@@ -1,0 +1,2 @@
+SnotBot-YOLOv3/yolov3.weights filter=lfs diff=lfs merge=lfs -text
+sources/whales.mp4 filter=lfs diff=lfs merge=lfs -text
