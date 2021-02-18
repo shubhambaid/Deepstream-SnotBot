@@ -1,5 +1,5 @@
 # SnotBot-Deepstream
-### How about a time when a drone in your control can perform much ahead then a submarine out of your control can do ?
+### How about a time when a drone in your control can perform much ahead than a submarine out of your control can do ?
 ### Amazed ?? So was I ! 
 Let's start with small example of plankton data, Planktons generate about half the atmosphere's oxygen, as much per year as all land plants. Phytoplankton also form the base of virtually every ocean food web and getting information about them is really tough, but SnotBot does it in a really different way.
 
