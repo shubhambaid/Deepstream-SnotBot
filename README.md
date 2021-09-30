@@ -1,6 +1,10 @@
 # SnotBot-Deepstream
 ### How about a time when a drone in your control can perform much ahead than a submarine out of your control can do ?
 ### Amazed ?? So was I ! 
+
+Every year hundreds of whales are found dead on different sea shores around the world, and there are numerous reasons for their death. One of them being Algal Bloom, this is a very serious issue which is overlooked by people. The majority of the marine death is connected to the oceanic debris, oil spill e.t.c.
+
+
 Let's start with small example of plankton data, Planktons generate about half the atmosphere's oxygen, as much per year as all land plants. Phytoplankton also form the base of virtually every ocean food web and getting information about them is really tough, but SnotBot does it in a really different way.
 
 
@@ -9,6 +13,8 @@ Let's start with small example of plankton data, Planktons generate about half t
 
 Whales are majestic, so do their snot. There is a lot of microbials in the snot droplets. The microbial data consists of plethora of information (e.g. Algal Bloom, Whale's Health, Plankton Reserviour e.t.c). 
 To make the collection of snot easier, SnotBot stealthily flies over the whale and collects the snot.
+
+In this project, I am demonstrating how AI can help in identifying whales and collecting snot. The model used here is accelerated with TRT and running with NVIDIA Deepstream to give the best performance without compromising on accuracy much.
 
 ## The SnotBot consists of two modules
 ### Xavier NX and Tello 
